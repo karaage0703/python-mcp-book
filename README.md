@@ -11,15 +11,15 @@
 
 ## サポート
 
-- **Issues**: 技術的な質問や不具合報告は[Issues](https://github.com/karaage070/python-mcp-book/issues)へお願いします
+- **Issues**: 技術的な質問や不具合報告は[Issues](https://github.com/karaage0703/python-mcp-book/issues)へお願いします
 
 
-## 📄 ライセンス
+## ライセンス
 
 サンプルコードのライセンスは、それぞれのリポジトリのライセンスを確認してください。
 
 このリポジトリ自体は、MITライセンスで提供されています。詳細は[LICENSE](./LICENSE)をご覧ください。
 
-## 🤝 貢献
+## 貢献
 
 正誤表への追加や改善提案は、プルリクエストまたはIssueでお寄せください。
