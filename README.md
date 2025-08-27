@@ -7,7 +7,8 @@
 「Pythonで始めるMCP開発入門」は、Model Context Protocol (MCP) を使った開発を学ぶための実践的な入門書です。
 
 ## コンテンツ
-
+第4章、第5章で紹介するMCPサーバー・ホストの実践コードについては下記リポジトリに格納しています。
+https://github.com/suckgeun/book_code
 
 ## サポート
 
