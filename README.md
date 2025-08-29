@@ -2,6 +2,15 @@
 
 本リポジトリは書籍「Pythonで始めるMCP開発入門」のサポートサイトです。
 
+
+<div align="left">
+<img src="images/PythonMCP_cover.jpg" width="200">
+</div>
+
+購入先は以下となります。
+
+[Amazon](https://amzn.to/4lOGtiM)
+
 ## 書籍について
 
 「Pythonで始めるMCP開発入門」は、Model Context Protocol (MCP) を使った開発を学ぶための実践的な入門書です。
@@ -17,7 +26,7 @@ https://github.com/karaage0703/python-boilerplate-llm
 
 ## サポート
 
-- **Issues**: 技術的な質問や不具合報告は[Issues](https://github.com/karaage0703/python-mcp-book/issues)へお願いします
+**Issues**: 技術的な質問や不具合報告は[Issues](https://github.com/karaage0703/python-mcp-book/issues)へお願いします
 
 
 ## ライセンス
