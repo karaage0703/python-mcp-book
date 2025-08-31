@@ -24,6 +24,13 @@ https://github.com/suckgeun/book_code
 第6章で紹介するテンプレートリポジトリは以下となります。  
 https://github.com/karaage0703/python-boilerplate-llm
 
+第6章で紹介したLLMで開発したMCPサーバーの例は以下となります。
+
+https://github.com/karaage0703/mcp-rag-server
+
+https://github.com/karaage0703/notion-mcp-light
+
+
 ## サポート
 
 **Issues**: 技術的な質問や不具合報告は[Issues](https://github.com/karaage0703/python-mcp-book/issues)へお願いします
