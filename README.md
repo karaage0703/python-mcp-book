@@ -15,11 +15,10 @@
 
 「Pythonで始めるMCP開発入門」は、Model Context Protocol (MCP) を使った開発を学ぶための実践的な入門書です。
 
-## コンテンツ
+## 書籍コンテンツ
 
 第4章、第5章で紹介するMCPサーバー・ホストの実践コードについては下記リポジトリに格納しています。  
 https://github.com/suckgeun/book_code
-
 
 第6章で紹介するテンプレートリポジトリは以下となります。  
 https://github.com/karaage0703/python-boilerplate-llm
@@ -30,6 +29,10 @@ https://github.com/karaage0703/mcp-rag-server
 
 https://github.com/karaage0703/notion-mcp-light
 
+## 関連コンテンツ
+
+第4章で紹介したMCPサーバーをAIエージェントで使いやすく改変したMCPサーバー
+https://github.com/karaage0703/mcp-web-search
 
 ## サポート
 
