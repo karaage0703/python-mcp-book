@@ -31,7 +31,8 @@ https://github.com/karaage0703/notion-mcp-light
 
 ## 関連コンテンツ
 
-第4章で紹介したMCPサーバーをAIエージェントで使いやすく改変したMCPサーバー
+第4章で紹介したMCPサーバーをAIエージェントで使いやすく改変したMCPサーバー。
+
 https://github.com/karaage0703/mcp-web-search
 
 ## サポート
